@@ -81,7 +81,7 @@ span{
     transition: bottom 1s, lrft 1s;
 }
 
-.image: hover .shape{
+.image .shape:hover{
     bottom: 40px;
 }
 
@@ -90,6 +90,3 @@ span{
     line-height: 22px;
 }
 
-.imgone{
-    z-index: 2;
-}
